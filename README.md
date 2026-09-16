@@ -19,6 +19,3 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge)
 
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaulAkshit&show_icons=true&theme=default)
