@@ -21,5 +21,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaulAkshit&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaulAkshit&layout=compact)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaulAkshit&show_icons=true&theme=default)
