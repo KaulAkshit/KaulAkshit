@@ -21,5 +21,5 @@
 
 ## 📊 GitHub Stats
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=[KaulAkshi](https://github.com/KaulAkshit)t&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[KaulAkshit](https://github.com/KaulAkshit)&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaulAkshit&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaulAkshit&layout=compact)
